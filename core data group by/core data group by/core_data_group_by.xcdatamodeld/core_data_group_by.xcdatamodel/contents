@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13B42" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="KeyedName" representedClassName="KeyedName" syncable="YES">
+        <attribute name="key" optional="YES" attributeType="String" defaultValueString="k" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" defaultValueString="n" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="KeyedName" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>
